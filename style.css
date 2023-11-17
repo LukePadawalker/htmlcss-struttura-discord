@@ -5,7 +5,8 @@
 
 }
 
-/*  Header properties  */
+
+/*  Header  */
 
 
 header{
@@ -16,28 +17,23 @@ header{
     width: 100%;
     background-color: rgb(0, 229, 255);
 }
-
 .logo{
     width: 15%;
     height: 40px;
     border: 2px dotted black;
     background-color: gold;
 }
-
 .links{
     width: 50%;
     height: 40px;
     border: 2px dotted black;
     background-color: gold;
 }
-
 .login{
     width: 15%;
     height: 40px;
     border: 2px dotted black;
     background-color: gold;
-    
-    
 }
 
 
@@ -51,19 +47,16 @@ header{
     background-color: blue;
     height: 500px;
     width: 100%;
-
 }
-
 .card1{
     width: 65%;
     min-height: 400px;
     border: 2px dotted black;
     background-color: rgb(255, 127, 255);
-
 }
 
-/*   Secondo contenitore  */
 
+/*   Secondo contenitore  */
 
 
 .content2{
@@ -73,26 +66,22 @@ header{
     background-color: white;
     height: 1000px;
     width: 100%;
-
 }
-
 .card2{
     width: 50%;
     min-height: 800px;
     border: 2px dotted black;
     background-color: rgb(18, 112, 227);
-
 }
-
 .card3{
     width: 30%;
     min-height: 800px;
     border: 2px dotted black;
     background-color: rgb(245, 195, 245);
-
 }
 
 
+/*   Terzo contenitore  */
 
 
 .content3{
@@ -102,22 +91,23 @@ header{
     background-color: gray;
     min-height: 1000px;
     width: 100%;
-
 }
-
 .card4{
     width: 30%;
     min-height: 800px;
     border: 2px dotted black;
     background-color: rgb(245, 195, 245);
 }
-
 .card5{
     width: 50%;
     min-height: 800px;
     border: 2px dotted black;
     background-color: rgb(18, 112, 227);
 }
+
+
+/*   Quarto contenitore  */
+
 
 .content4{
     display: flex;
@@ -127,20 +117,22 @@ header{
     min-height: 1000px;
     width: 100%;
 }
-
 .card6{
     width: 50%;
     min-height: 800px;
     border: 2px dotted black;
     background-color: rgb(18, 112, 227);
 }
-
 .card7{
     width: 30%;
     min-height: 800px;
     border: 2px dotted black;
     background-color: rgb(245, 195, 245);
 }
+
+
+/*   Quinto contenitore  */
+
 
 .content5{
     display: flex;
@@ -150,13 +142,16 @@ header{
     min-height: 1400px;
     width: 100%;
 }
-
 .greencard{
     width: 80%;
     min-height: 1200px;
     border: 2px dotted black;
     background-color: green;
 }
+
+
+/*   Footer  */
+
 
 .footer-links{
     display: flex;
@@ -166,20 +161,21 @@ header{
     min-height: 800px;
     width: 100%;
 }
-
 .pink-column{
     width: 20%;
     min-height: 750px;
     border: 2px dotted black;
     background-color: rgb(255, 142, 142);
 }
-
 .column{
     width: 15%;
     min-height: 750px;
     border: 2px dotted rgb(255, 255, 255);
     background-color: rgb(22, 184, 162);
 }
+
+
+/*   Copyright */
 
 
 footer{
@@ -200,14 +196,12 @@ footer{
     min-height: 100px;
     background-color: rgb(138, 255, 251);
 }
-
 .footer-logo{
     width: 7%;
     min-height: 40px;
     border: 2px dotted rgb(0, 0, 0);
     background-color: rgb(255, 171, 212);
 }
-
 .footer-button{
     width: 7%;
     min-height: 40px;
